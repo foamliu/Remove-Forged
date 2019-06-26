@@ -38,3 +38,4 @@ def is_forged(mac):
 
 if __name__ == '__main__':
     print(is_forged('482CA04A7D89'))
+    print(is_forged('000000000000'))
